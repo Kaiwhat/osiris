@@ -48,7 +48,7 @@ const UptimeClock = () => {
   useEffect(() => {
     const iv = setInterval(() => {
       const e = Math.floor((Date.now() - startTime.current) / 1000);
-      setUptime(`${String(Math.floor(e/3600)).padStart(2,'0')}:${String(Math.floor((e%3600)/60)).padStart(2,'0')}:${String(e%60).padStart(2,'0')}`);
+      setUptime(`${String(Math.floor(e / 3600)).padStart(2, '0')}:${String(Math.floor((e % 3600) / 60)).padStart(2, '0')}:${String(e % 60).padStart(2, '0')}`);
     }, 1000);
     return () => clearInterval(iv);
   }, []);
@@ -60,7 +60,7 @@ const ZuluClock = () => {
   useEffect(() => {
     const iv = setInterval(() => {
       const now = new Date();
-      setTime(`ZULU ${String(now.getUTCHours()).padStart(2,'0')}:${String(now.getUTCMinutes()).padStart(2,'0')}:${String(now.getUTCSeconds()).padStart(2,'0')}Z`);
+      setTime(`ZULU ${String(now.getUTCHours()).padStart(2, '0')}:${String(now.getUTCMinutes()).padStart(2, '0')}:${String(now.getUTCSeconds()).padStart(2, '0')}Z`);
     }, 1000);
     return () => clearInterval(iv);
   }, []);
@@ -89,7 +89,7 @@ export default function Dashboard() {
   const data = dataRef.current;
 
   const [backendStatus, setBackendStatus] = useState<'connecting' | 'connected' | 'error'>('connecting');
-  const [mapView, setMapView] = useState({ zoom: 2.5, latitude: 20 });
+  const [mapView, setMapView] = useState({ zoom: 2.5, latitude: 23.95 });
   const [flyToLocation, setFlyToLocation] = useState<{ lat: number; lng: number; ts: number } | null>(null);
   const [globalStats, setGlobalStats] = useState<any>(null);
   const mouseCoordsRef = useRef<{ lat: number; lng: number } | null>(null);
@@ -107,14 +107,14 @@ export default function Dashboard() {
   const [showIntel, setShowIntel] = useState(false);
   const [showEntityGraph, setShowEntityGraph] = useState(false);
   const [isFullscreen, setIsFullscreen] = useState(false);
-  const [mobilePanel, setMobilePanel] = useState<'layers'|'markets'|'intel'|'search'|'recon'|null>(null);
-  const [mapProjection, setMapProjection] = useState<'globe'|'mercator'>('globe');
-  const [mapStyle, setMapStyle] = useState<'dark'|'satellite'>('dark');
+  const [mobilePanel, setMobilePanel] = useState<'layers' | 'markets' | 'intel' | 'search' | 'recon' | null>(null);
+  const [mapProjection, setMapProjection] = useState<'globe' | 'mercator'>('globe');
+  const [mapStyle, setMapStyle] = useState<'dark' | 'satellite'>('dark');
   const [sweepData, setSweepData] = useState<any>(null);
   const [scanTargets, setScanTargets] = useState<any[]>([]);
   const [entityGraphTarget, setEntityGraphTarget] = useState<{ type: string; id: string; label?: string; properties?: Record<string, any> } | null>(null);
   const [demoMode, setDemoMode] = useState(false);
-  const [osirisTheme, setOsirisTheme] = useState<'core'|'ghost'>('core');
+  const [osirisTheme, setOsirisTheme] = useState<'core' | 'ghost'>('core');
 
   useEffect(() => {
     document.body.className = osirisTheme === 'core' ? '' : `theme-${osirisTheme}`;
@@ -151,7 +151,7 @@ export default function Dashboard() {
     sdk_sea: true,
     sdk_air: true,
     sdk_naval: true,
-    
+
     malware: false,
   });
   const [liveFeedUrl, setLiveFeedUrl] = useState<string | null>(null);
@@ -177,7 +177,8 @@ export default function Dashboard() {
         .then(r => r.json())
         .then(geo => {
           if (geo.status === 'success' && geo.lat && geo.lon) {
-            setFlyToLocation({ lat: geo.lat, lng: geo.lon, ts: Date.now() });
+            // setFlyToLocation({ lat: geo.lat, lng: geo.lon, ts: Date.now() });
+            setFlyToLocation({ lat: 23.95, lng: 120.92, ts: Date.now() });
             setMapView(v => ({ ...v, zoom: 12 }));
           }
         })
@@ -211,10 +212,10 @@ export default function Dashboard() {
     if (urlTimer.current) clearTimeout(urlTimer.current);
     urlTimer.current = setTimeout(() => {
       const p = new URLSearchParams();
-      p.set('lat', (mapView.latitude ?? 20).toFixed(4));
-      p.set('lon', '0');
+      p.set('lat', (mapView.latitude ?? 23).toFixed(4));
+      p.set('lon', '120');
       p.set('zoom', mapView.zoom.toFixed(2));
-      const active = Object.entries(activeLayers).filter(([,v]) => v).map(([k]) => k).join(',');
+      const active = Object.entries(activeLayers).filter(([, v]) => v).map(([k]) => k).join(',');
       p.set('layers', active);
       const url = `${window.location.pathname}?${p.toString()}`;
       window.history.replaceState(null, '', url);
@@ -243,7 +244,7 @@ export default function Dashboard() {
       if (e.key === 'm') setShowMarkets(p => !p);
       if (e.key === 'c') setShowScmPanel(p => !p);
       if (e.key === 'i') setShowIntel(p => !p);
-      if (e.key === 'r') setFlyToLocation({ lat: 20, lng: 0, ts: Date.now() });
+      if (e.key === 'r') setFlyToLocation({ lat: 23.95, lng: 120.92, ts: Date.now() });
       if (e.key === 'g') setMapProjection(p => p === 'globe' ? 'mercator' : 'globe');
     };
     const fsHandler = () => setIsFullscreen(!!document.fullscreenElement);
@@ -271,8 +272,8 @@ export default function Dashboard() {
         if (res.ok) {
           const d = await res.json();
           const a = d.address || {};
-          const label = [a.city||a.town||a.village||a.county, a.state||a.region, a.country].filter(Boolean).join(', ') || 'Unknown';
-          if (geocodeCache.current.size > 500) { const it = geocodeCache.current.keys(); for (let i=0;i<100;i++) { const k = it.next().value; if(k) geocodeCache.current.delete(k); }}
+          const label = [a.city || a.town || a.village || a.county, a.state || a.region, a.country].filter(Boolean).join(', ') || 'Unknown';
+          if (geocodeCache.current.size > 500) { const it = geocodeCache.current.keys(); for (let i = 0; i < 100; i++) { const k = it.next().value; if (k) geocodeCache.current.delete(k); } }
           geocodeCache.current.set(gk, label);
           setLocationLabel(label);
           lastGeocodedPos.current = coords;
@@ -433,11 +434,11 @@ export default function Dashboard() {
       (async () => {
         try {
           const ts = Date.now();
-      const res = await fetch(`/data/submarine-cables.json?v=${ts}`);
+          const res = await fetch(`/data/submarine-cables.json?v=${ts}`);
           if (res.ok) {
-             const cablesData = await res.json();
-             dataRef.current = { ...dataRef.current, submarine_cables: cablesData.features };
-             setDataVersion(v => v + 1);
+            const cablesData = await res.json();
+            dataRef.current = { ...dataRef.current, submarine_cables: cablesData.features };
+            setDataVersion(v => v + 1);
           }
         } catch (e) { console.warn('Cables fetch failed'); }
       })();
@@ -561,7 +562,7 @@ export default function Dashboard() {
   }, [dataVersion, activeLayers.sdk_sea, activeLayers.sdk_air, activeLayers.sdk_naval]);
 
   const totalFlights = useMemo(() => (
-    (data.commercial_flights?.length||0)+(data.private_flights?.length||0)+(data.private_jets?.length||0)+(data.military_flights?.length||0)
+    (data.commercial_flights?.length || 0) + (data.private_flights?.length || 0) + (data.private_jets?.length || 0) + (data.military_flights?.length || 0)
   ), [data.commercial_flights, data.private_flights, data.private_jets, data.military_flights]);
 
 
@@ -764,16 +765,16 @@ export default function Dashboard() {
 
       {/* ── MAP ── */}
       <ErrorBoundary name="Map">
-        <OsirisMap 
+        <OsirisMap
           key={osirisTheme}
-          data={data} 
-          activeLayers={activeLayers} 
-          projection={mapProjection} 
-          mapStyle={mapStyle === 'satellite' ? 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}' : 'dark'} 
-          onEntityClick={handleEntityClick} 
-          onMouseCoords={handleMouseCoords} 
-          onRightClick={handleRightClick} 
-          onViewStateChange={setMapView} 
+          data={data}
+          activeLayers={activeLayers}
+          projection={mapProjection}
+          mapStyle={mapStyle === 'satellite' ? 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}' : 'dark'}
+          onEntityClick={handleEntityClick}
+          onMouseCoords={handleMouseCoords}
+          onRightClick={handleRightClick}
+          onViewStateChange={setMapView}
           flyToLocation={flyToLocation}
           sweepData={sweepData}
           scanTargets={scanTargets}
@@ -1061,11 +1062,11 @@ export default function Dashboard() {
                     <>
                       <div className="glass-panel-sm p-2 mb-2">
                         <div className="grid grid-cols-5 gap-1 text-center">
-                          <div><div className="hud-label" style={{fontSize:'6px'}}>AIR</div><div className="hud-value text-[9px]">{totalFlights.toLocaleString()}</div></div>
-                          <div><div className="hud-label" style={{fontSize:'6px'}}>SAT</div><div className="hud-value text-[9px]">{(data.satellites?.length||0)}</div></div>
-                          <div><div className="hud-label" style={{fontSize:'6px'}}>CAM</div><div className="hud-value text-[9px]">{(data.cameras?.length||0)}</div></div>
-                          <div><div className="hud-label" style={{fontSize:'6px'}}>WX</div><div className="hud-value text-[9px]" style={{color:'var(--accent-weather)'}}>{(data.weather_events?.length||0)}</div></div>
-                          <div><div className="hud-label" style={{fontSize:'6px'}}>NUC</div><div className="hud-value text-[9px]" style={{color:'var(--accent-nuclear)'}}>{(data.infrastructure?.length||0)}</div></div>
+                          <div><div className="hud-label" style={{ fontSize: '6px' }}>AIR</div><div className="hud-value text-[9px]">{totalFlights.toLocaleString()}</div></div>
+                          <div><div className="hud-label" style={{ fontSize: '6px' }}>SAT</div><div className="hud-value text-[9px]">{(data.satellites?.length || 0)}</div></div>
+                          <div><div className="hud-label" style={{ fontSize: '6px' }}>CAM</div><div className="hud-value text-[9px]">{(data.cameras?.length || 0)}</div></div>
+                          <div><div className="hud-label" style={{ fontSize: '6px' }}>WX</div><div className="hud-value text-[9px]" style={{ color: 'var(--accent-weather)' }}>{(data.weather_events?.length || 0)}</div></div>
+                          <div><div className="hud-label" style={{ fontSize: '6px' }}>NUC</div><div className="hud-value text-[9px]" style={{ color: 'var(--accent-nuclear)' }}>{(data.infrastructure?.length || 0)}</div></div>
                         </div>
                       </div>
                       <LayerPanel data={data} activeLayers={activeLayers} setActiveLayers={setActiveLayers} isMobile={true} theme={osirisTheme} setTheme={setOsirisTheme} />
