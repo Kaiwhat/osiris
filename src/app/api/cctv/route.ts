@@ -109,7 +109,7 @@ async function fetchCanadaCameras(): Promise<any[]> {
         const coords = feature.geometry?.coordinates;
         const p = feature.properties;
         if (!coords || !p || !p.IDEcamera) continue;
-        
+
         cams.push({
           id: `quebec511-${p.IDEcamera}`, lat: coords[1], lng: coords[0],
           name: p.DescriptionLocalisationEn || p.DescriptionLocalisationFr || 'Quebec 511 Camera', city: p.NomRegionDiffusion || 'Quebec', country: 'Canada',
@@ -346,6 +346,27 @@ async function fetchAsiaCameras(): Promise<any[]> {
     }
   } catch { /* silent */ }
 
+  // Taiwan Live Traffic Images
+  try {
+    const res = await stealthFetch('https://www.twipcam.com/api/v1/cam-list.json', { signal: AbortSignal.timeout(10000) });
+    if (res.ok) {
+      const data = await res.json();
+      for (const cam of data) {
+        if (!cam.lat || !cam.lon || !cam.cam_url) continue;
+        cams.push({
+          id: `${cam.id}`,
+          lat: cam.lat,
+          lng: cam.lon,
+          name: `Camera ${cam.id}`,
+          city: 'Taiwan',
+          country: 'Taiwan',
+          feed_url: cam.cam_url,
+          source: 'Taiwan'
+        });
+      }
+    }
+  } catch { /* silent */ }
+
   return cams;
 }
 
@@ -353,7 +374,7 @@ async function fetchAsiaCameras(): Promise<any[]> {
 // ── MIDDLE EAST: Israel, Lebanon ──
 async function fetchMiddleEastCameras(): Promise<any[]> {
   const cams: any[] = [];
-  
+
   // Israel Curated (Embedded)
   cams.push(
     {
@@ -520,8 +541,8 @@ export async function GET(request: Request) {
       }
     }
 
-    const cacheControl = allCameras.length < 50 
-      ? 'no-store, max-age=0' 
+    const cacheControl = allCameras.length < 50
+      ? 'no-store, max-age=0'
       : 'public, s-maxage=300, stale-while-revalidate=600';
 
     return NextResponse.json({
