@@ -18197,7 +18197,7 @@
         "lat": 24.1372,
         "lon": 121.2766,
         "name": "台14甲線 31K+500 合歡山武嶺亭",
-        "cam_url": "https:\/\/cctv-ss04.thb.gov.tw\/T14A-31K+500\/snapshot"
+        "cam_url": "https:\/\/cctv-ss04.thb.gov.tw:443\/T14A-31K+500"
     },
     {
         "id": "t14a-32k-781",
@@ -39085,1218 +39085,1218 @@
         "lat": 24.8193,
         "lon": 120.9956,
         "name": "新竹市道路 中華路與頭前溪(上台68)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000001.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=68&user=viewer&pass=--"
     },
     {
         "id": "hsz-000002",
         "lat": 24.8193,
         "lon": 120.9955,
         "name": "新竹市道路 中華路與頭前溪(往竹北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000002.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=69&user=viewer&pass=--"
     },
     {
         "id": "hsz-000003",
         "lat": 24.8194,
         "lon": 120.9954,
         "name": "新竹市道路 中華路與頭前溪(出2巷)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000003.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=70&user=viewer&pass=--"
     },
     {
         "id": "hsz-000004",
         "lat": 24.8198,
         "lon": 120.9957,
         "name": "新竹市道路 中華路與頭前溪(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000004.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=71&user=viewer&pass=--"
     },
     {
         "id": "hsz-000005",
         "lat": 24.816,
         "lon": 120.9934,
         "name": "新竹市道路 中華路與經國路北端(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000005.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=72&user=viewer&pass=--"
     },
     {
         "id": "hsz-000006",
         "lat": 24.8055,
         "lon": 120.9772,
         "name": "新竹市道路 中華路與民權路(往火車站)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000006.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=73&user=viewer&pass=--"
     },
     {
         "id": "hsz-000007",
         "lat": 24.8022,
         "lon": 120.9718,
         "name": "新竹市道路 中華路與中正路(往香山)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000007.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=74&user=viewer&pass=--"
     },
     {
         "id": "hsz-000008",
         "lat": 24.8019,
         "lon": 120.9715,
         "name": "新竹市道路 中華路與中正路(往竹北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000008.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=75&user=viewer&pass=--"
     },
     {
         "id": "hsz-000009",
         "lat": 24.8019,
         "lon": 120.9717,
         "name": "新竹市道路 中華路與中正路(往中正路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000009.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=76&user=viewer&pass=--"
     },
     {
         "id": "hsz-000010",
         "lat": 24.8022,
         "lon": 120.9717,
         "name": "新竹市道路 中華路與中正路(往火車站)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000010.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=77&user=viewer&pass=--"
     },
     {
         "id": "hsz-000011",
         "lat": 24.7967,
         "lon": 120.9607,
         "name": "新竹市道路 中華路與林森路及振興路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000011.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=78&user=viewer&pass=--"
     },
     {
         "id": "hsz-000012",
         "lat": 24.7965,
         "lon": 120.9524,
         "name": "新竹市道路 中華路與經國路南端(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000012.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=79&user=viewer&pass=--"
     },
     {
         "id": "hsz-000013",
         "lat": 24.7965,
         "lon": 120.9526,
         "name": "新竹市道路 中華路與經國路南端(往香山)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000013.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=80&user=viewer&pass=--"
     },
     {
         "id": "hsz-000014",
         "lat": 24.7964,
         "lon": 120.9525,
         "name": "新竹市道路 中華路與經國路南端(往經國路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000014.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=81&user=viewer&pass=--"
     },
     {
         "id": "hsz-000015",
         "lat": 24.815,
         "lon": 120.9852,
         "name": "新竹市道路 經國路與公道五路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000015.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=82&user=viewer&pass=--"
     },
     {
         "id": "hsz-000016",
         "lat": 24.8142,
         "lon": 120.9743,
         "name": "新竹市道路 經國路與民生路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000016.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=83&user=viewer&pass=--"
     },
     {
         "id": "hsz-000017",
         "lat": 24.8063,
         "lon": 120.9561,
         "name": "新竹市道路 經國路與和平路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000017.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=84&user=viewer&pass=--"
     },
     {
         "id": "hsz-000018",
         "lat": 24.8048,
         "lon": 120.9556,
         "name": "新竹市道路 三廠停車場(經國路與延平路往竹光路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000018.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=85&user=viewer&pass=--"
     },
     {
         "id": "hsz-000019",
         "lat": 24.8051,
         "lon": 121.0166,
         "name": "新竹市道路 經國大橋台68西向入口(往南寮)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000019.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=86&user=viewer&pass=--"
     },
     {
         "id": "hsz-000020",
         "lat": 24.7959,
         "lon": 121.0134,
         "name": "新竹市道路 慈雲路與公道五路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000020.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=87&user=viewer&pass=--"
     },
     {
         "id": "hsz-000021",
         "lat": 24.7959,
         "lon": 121.0132,
         "name": "新竹市道路 慈雲路與公道五路(往竹科)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000021.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=88&user=viewer&pass=--"
     },
     {
         "id": "hsz-000022",
         "lat": 24.7957,
         "lon": 121.0132,
         "name": "新竹市道路 慈雲路與公道五路(往竹東)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000022.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=89&user=viewer&pass=--"
     },
     {
         "id": "hsz-000023",
         "lat": 24.7956,
         "lon": 121.0133,
         "name": "新竹市道路 慈雲路與公道五路(往竹北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000023.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=90&user=viewer&pass=--"
     },
     {
         "id": "hsz-000024",
         "lat": 24.7941,
         "lon": 121.0131,
         "name": "新竹市道路 慈雲路與埔頂路(往竹科)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000024.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=91&user=viewer&pass=--"
     },
     {
         "id": "hsz-000025",
         "lat": 24.7905,
         "lon": 121.0118,
         "name": "新竹市道路 慈雲路門架(往竹北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000025.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=92&user=viewer&pass=--"
     },
     {
         "id": "hsz-000026",
         "lat": 24.7906,
         "lon": 121.0117,
         "name": "新竹市道路 慈雲路門架(往竹科)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000026.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=93&user=viewer&pass=--"
     },
     {
         "id": "hsz-000027",
         "lat": 24.8024,
         "lon": 120.9832,
         "name": "新竹市道路 光復路與食品路(往動物園)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000027.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=94&user=viewer&pass=--"
     },
     {
         "id": "hsz-000028",
         "lat": 24.8022,
         "lon": 120.9832,
         "name": "新竹市道路 光復路與食品路(往大潤發)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000028.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=95&user=viewer&pass=--"
     },
     {
         "id": "hsz-000029",
         "lat": 24.801,
         "lon": 120.9869,
         "name": "新竹市道路 光復路與學府路及東光路(往東大陸橋)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000029.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=96&user=viewer&pass=--"
     },
     {
         "id": "hsz-000030",
         "lat": 24.8011,
         "lon": 120.9872,
         "name": "新竹市道路 光復路與學府路及東光路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000030.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=97&user=viewer&pass=--"
     },
     {
         "id": "hsz-000031",
         "lat": 24.799,
         "lon": 120.9936,
         "name": "新竹市道路 光復路與建中路(往竹東)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000031.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=98&user=viewer&pass=--"
     },
     {
         "id": "hsz-000032",
         "lat": 24.796,
         "lon": 120.9979,
         "name": "新竹市道路 光復路與建功路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000032.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=99&user=viewer&pass=--"
     },
     {
         "id": "hsz-000033",
         "lat": 24.791,
         "lon": 121.0046,
         "name": "新竹市道路 光復路與大學路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000033.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=100&user=viewer&pass=--"
     },
     {
         "id": "hsz-000034",
         "lat": 24.7897,
         "lon": 121.0063,
         "name": "新竹市道路 光復路與北上交流道(往竹東)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000034.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=101&user=viewer&pass=--"
     },
     {
         "id": "hsz-000035",
         "lat": 24.7876,
         "lon": 121.0096,
         "name": "新竹市道路 光復路與慈雲路及園區一路(往竹科)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000035.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=102&user=viewer&pass=--"
     },
     {
         "id": "hsz-000036",
         "lat": 24.7875,
         "lon": 121.0097,
         "name": "新竹市道路 光復路與慈雲路及園區一路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000036.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=103&user=viewer&pass=--"
     },
     {
         "id": "hsz-000037",
         "lat": 24.7848,
         "lon": 121.0138,
         "name": "新竹市道路 光復路與長春街及光復路525巷(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000037.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=104&user=viewer&pass=--"
     },
     {
         "id": "hsz-000038",
         "lat": 24.7818,
         "lon": 121.0212,
         "name": "新竹市道路 光復路與介壽路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000038.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=105&user=viewer&pass=--"
     },
     {
         "id": "hsz-000039",
         "lat": 24.7785,
         "lon": 121.0192,
         "name": "新竹市道路 介壽路與金山街(出園區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000039.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=106&user=viewer&pass=--"
     },
     {
         "id": "hsz-000040",
         "lat": 24.7787,
         "lon": 121.0191,
         "name": "新竹市道路 介壽路與金山街(進園區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000040.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=107&user=viewer&pass=--"
     },
     {
         "id": "hsz-000041",
         "lat": 24.8239,
         "lon": 120.9786,
         "name": "新竹市道路 公道五路與湳雅街(往湳雅街)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000041.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=108&user=viewer&pass=--"
     },
     {
         "id": "hsz-000042",
         "lat": 24.824,
         "lon": 120.9783,
         "name": "新竹市道路 公道五路與湳雅街(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000042.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=109&user=viewer&pass=--"
     },
     {
         "id": "hsz-000043",
         "lat": 24.8168,
         "lon": 120.9843,
         "name": "新竹市道路 公道五路與溪埔路(往經國路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000043.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=110&user=viewer&pass=--"
     },
     {
         "id": "hsz-000044",
         "lat": 24.8167,
         "lon": 120.9843,
         "name": "新竹市道路 公道五路與溪埔路(往台68)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000044.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=111&user=viewer&pass=--"
     },
     {
         "id": "hsz-000045",
         "lat": 24.8053,
         "lon": 120.9927,
         "name": "新竹市道路 公道五路與忠孝路及東勢街(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000045.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=112&user=viewer&pass=--"
     },
     {
         "id": "hsz-000046",
         "lat": 24.8037,
         "lon": 120.9964,
         "name": "新竹市道路 公道五路與建中路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000046.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=113&user=viewer&pass=--"
     },
     {
         "id": "hsz-000047",
         "lat": 24.7977,
         "lon": 121.0087,
         "name": "新竹市道路 公道五路與交流道東側(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000047.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=114&user=viewer&pass=--"
     },
     {
         "id": "hsz-000048",
         "lat": 24.7975,
         "lon": 121.0086,
         "name": "新竹市道路 公道五路與交流道東側(往竹東)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000048.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=115&user=viewer&pass=--"
     },
     {
         "id": "hsz-000049",
         "lat": 24.798,
         "lon": 121.0081,
         "name": "新竹市道路 公道五路與交流道西側(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000049.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=116&user=viewer&pass=--"
     },
     {
         "id": "hsz-000050",
         "lat": 24.7978,
         "lon": 121.008,
         "name": "新竹市道路 公道五路與交流道西側(往竹東)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000050.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=117&user=viewer&pass=--"
     },
     {
         "id": "hsz-000051",
         "lat": 24.7977,
         "lon": 121.0084,
         "name": "新竹市道路 公道五路與交流道(北上匝道)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000051.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=118&user=viewer&pass=--"
     },
     {
         "id": "hsz-000052",
         "lat": 24.7978,
         "lon": 121.0084,
         "name": "新竹市道路 公道五路與交流道(南下匝道)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000052.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=119&user=viewer&pass=--"
     },
     {
         "id": "hsz-000053",
         "lat": 24.7945,
         "lon": 121.0201,
         "name": "新竹市道路 公道五路與關東路376巷(往竹科)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000053.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=120&user=viewer&pass=--"
     },
     {
         "id": "hsz-000054",
         "lat": 24.7948,
         "lon": 120.9725,
         "name": "新竹市道路 西大路與食品路(往竹科)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000054.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=121&user=viewer&pass=--"
     },
     {
         "id": "hsz-000055",
         "lat": 24.7905,
         "lon": 120.9768,
         "name": "新竹市道路 寶山路與200巷(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000055.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=122&user=viewer&pass=--"
     },
     {
         "id": "hsz-000056",
         "lat": 24.7903,
         "lon": 120.9766,
         "name": "新竹市道路 寶山路與200巷(往竹科)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000056.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=123&user=viewer&pass=--"
     },
     {
         "id": "hsz-000057",
         "lat": 24.7882,
         "lon": 120.9823,
         "name": "新竹市道路 寶山路與高峰植物園(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000057.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=124&user=viewer&pass=--"
     },
     {
         "id": "hsz-000058",
         "lat": 24.7883,
         "lon": 120.9822,
         "name": "新竹市道路 寶山路與高峰植物園(往竹科)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000058.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=125&user=viewer&pass=--"
     },
     {
         "id": "hsz-000059",
         "lat": 24.7869,
         "lon": 120.9867,
         "name": "新竹市道路 寶山路與380巷(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000059.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=126&user=viewer&pass=--"
     },
     {
         "id": "hsz-000060",
         "lat": 24.7869,
         "lon": 120.9864,
         "name": "新竹市道路 寶山路與380巷(往竹科)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000060.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=127&user=viewer&pass=--"
     },
     {
         "id": "hsz-000061",
         "lat": 24.7859,
         "lon": 120.9885,
         "name": "新竹市道路 寶山路與高翠路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000061.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=128&user=viewer&pass=--"
     },
     {
         "id": "hsz-000062",
         "lat": 24.786,
         "lon": 120.9881,
         "name": "新竹市道路 寶山路與高翠路(往竹科)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000062.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=129&user=viewer&pass=--"
     },
     {
         "id": "hsz-000063",
         "lat": 24.811,
         "lon": 120.97,
         "name": "新竹市道路 東大路與北大路(往經國路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000063.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=130&user=viewer&pass=--"
     },
     {
         "id": "hsz-000064",
         "lat": 24.8108,
         "lon": 120.9698,
         "name": "新竹市道路 東大路與北大路(往東大陸橋)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000064.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=131&user=viewer&pass=--"
     },
     {
         "id": "hsz-000065",
         "lat": 24.8138,
         "lon": 120.9674,
         "name": "新竹市道路 東大路與經國路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000065.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=3&user=viewer&pass=--"
     },
     {
         "id": "hsz-000066",
         "lat": 24.8175,
         "lon": 120.9639,
         "name": "新竹市道路 東大路與武陵路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000066.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=4&user=viewer&pass=--"
     },
     {
         "id": "hsz-000067",
         "lat": 24.8199,
         "lon": 120.9614,
         "name": "新竹市道路 東大路與鐵道路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000067.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=5&user=viewer&pass=--"
     },
     {
         "id": "hsz-000068",
         "lat": 24.8201,
         "lon": 120.9613,
         "name": "新竹市道路 樹林頭停車場(東大路與鐵道路照停車場)1",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000068.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=6&user=viewer&pass=--"
     },
     {
         "id": "hsz-000069",
         "lat": 24.8201,
         "lon": 120.9616,
         "name": "新竹市道路 樹林頭停車場(東大路與鐵道路照停車場)2",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000069.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=7&user=viewer&pass=--"
     },
     {
         "id": "hsz-000070",
         "lat": 24.8313,
         "lon": 120.9556,
         "name": "新竹市道路 東大路與公道五路(往南寮)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000070.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=8&user=viewer&pass=--"
     },
     {
         "id": "hsz-000071",
         "lat": 24.8439,
         "lon": 120.9315,
         "name": "新竹市道路 東大路與榮濱路(往天府路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000071.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=9&user=viewer&pass=--"
     },
     {
         "id": "hsz-000072",
         "lat": 24.8438,
         "lon": 120.9312,
         "name": "新竹市道路 東大路與榮濱路(往西濱路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000072.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=10&user=viewer&pass=--"
     },
     {
         "id": "hsz-000073",
         "lat": 24.8435,
         "lon": 120.9314,
         "name": "新竹市道路 東大路與榮濱路(往南寮大道)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000073.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=11&user=viewer&pass=--"
     },
     {
         "id": "hsz-000074",
         "lat": 24.8437,
         "lon": 120.9316,
         "name": "新竹市道路 東大路與榮濱路(往海濱路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000074.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=12&user=viewer&pass=--"
     },
     {
         "id": "hsz-000075",
         "lat": 24.8466,
         "lon": 120.9258,
         "name": "新竹市道路 東大路與新港二路(往新港二路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000075.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=13&user=viewer&pass=--"
     },
     {
         "id": "hsz-000076",
         "lat": 24.8465,
         "lon": 120.9257,
         "name": "新竹市道路 東大路與新港二路(往新港一路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000076.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=14&user=viewer&pass=--"
     },
     {
         "id": "hsz-000077",
         "lat": 24.8466,
         "lon": 120.9251,
         "name": "新竹市道路 東大路與新港二路(新竹區漁會1)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000077.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=15&user=viewer&pass=--"
     },
     {
         "id": "hsz-000078",
         "lat": 24.8464,
         "lon": 120.9256,
         "name": "新竹市道路 東大路與新港二路(新竹區漁會2)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000078.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=16&user=viewer&pass=--"
     },
     {
         "id": "hsz-000079",
         "lat": 24.8499,
         "lon": 120.927,
         "name": "新竹市道路 新港路與新港二路(往新港二路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000079.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=17&user=viewer&pass=--"
     },
     {
         "id": "hsz-000080",
         "lat": 24.8497,
         "lon": 120.9272,
         "name": "新竹市道路 新港路與新港二路(往新港路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000080.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=18&user=viewer&pass=--"
     },
     {
         "id": "hsz-000081",
         "lat": 24.8495,
         "lon": 120.9269,
         "name": "新竹市道路 新港路與新港二路(往南寮大道)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000081.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=19&user=viewer&pass=--"
     },
     {
         "id": "hsz-000082",
         "lat": 24.8497,
         "lon": 120.9268,
         "name": "新竹市道路 新港路與新港二路(往南寮街)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000082.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=20&user=viewer&pass=--"
     },
     {
         "id": "hsz-000083",
         "lat": 24.8496,
         "lon": 120.927,
         "name": "新竹市道路 新港路與新港二路(漁港第二停車場)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000083.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=21&user=viewer&pass=--"
     },
     {
         "id": "hsz-000084",
         "lat": 24.8494,
         "lon": 120.9278,
         "name": "新竹市道路 南寮街(南寮漁港旅遊服務中心1)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000084.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=22&user=viewer&pass=--"
     },
     {
         "id": "hsz-000085",
         "lat": 24.8493,
         "lon": 120.9276,
         "name": "新竹市道路 南寮街(南寮漁港旅遊服務中心2)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000085.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=23&user=viewer&pass=--"
     },
     {
         "id": "hsz-000086",
         "lat": 24.8491,
         "lon": 120.9277,
         "name": "新竹市道路 南寮街(南寮漁港旅遊服務中心3)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000086.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=24&user=viewer&pass=--"
     },
     {
         "id": "hsz-000087",
         "lat": 24.8475,
         "lon": 120.9294,
         "name": "新竹市道路 南寮街與南寮街108巷(往旅遊服務中心)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000087.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=25&user=viewer&pass=--"
     },
     {
         "id": "hsz-000088",
         "lat": 24.8475,
         "lon": 120.9297,
         "name": "新竹市道路 南寮街與南寮街108巷(往南寮大道)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000088.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=26&user=viewer&pass=--"
     },
     {
         "id": "hsz-000089",
         "lat": 24.8475,
         "lon": 120.9294,
         "name": "新竹市道路 南寮街與南寮街108巷(往102巷)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000089.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=27&user=viewer&pass=--"
     },
     {
         "id": "hsz-000090",
         "lat": 24.8459,
         "lon": 120.9327,
         "name": "新竹市道路 台68與榮濱路(往台68)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000090.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=28&user=viewer&pass=--"
     },
     {
         "id": "hsz-000091",
         "lat": 24.8459,
         "lon": 120.9328,
         "name": "新竹市道路 台68與榮濱路(往榮濱路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000091.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=29&user=viewer&pass=--"
     },
     {
         "id": "hsz-000092",
         "lat": 24.8458,
         "lon": 120.9328,
         "name": "新竹市道路 台68與榮濱路(往南寮)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000092.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=30&user=viewer&pass=--"
     },
     {
         "id": "hsz-000093",
         "lat": 24.8154,
         "lon": 120.9619,
         "name": "新竹市道路 中正路與武陵路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000093.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=64&user=viewer&pass=--"
     },
     {
         "id": "hsz-000094",
         "lat": 24.8172,
         "lon": 120.9639,
         "name": "新竹市道路 東大路武陵路(往武陵高架橋)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000094.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=31&user=viewer&pass=--"
     },
     {
         "id": "hsz-000095",
         "lat": 24.8178,
         "lon": 120.9651,
         "name": "新竹市道路 武陵路與61巷口(武陵高架橋匝道口)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000095.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=32&user=viewer&pass=--"
     },
     {
         "id": "hsz-000096",
         "lat": 24.8206,
         "lon": 120.9679,
         "name": "新竹市道路 武陵路與武陵路196巷(往台68)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000096.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=33&user=viewer&pass=--"
     },
     {
         "id": "hsz-000097",
         "lat": 24.8044,
         "lon": 120.9668,
         "name": "新竹市道路 中央路與東門街(往城隍廟)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000097.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=34&user=viewer&pass=--"
     },
     {
         "id": "hsz-000098",
         "lat": 24.8038,
         "lon": 120.9642,
         "name": "新竹市道路 西大路與中山路(往大遠百)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000098.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=35&user=viewer&pass=--"
     },
     {
         "id": "hsz-000099",
         "lat": 24.805,
         "lon": 120.9661,
         "name": "新竹市道路 中山路與北門街(往城隍廟)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000099.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=36&user=viewer&pass=--"
     },
     {
         "id": "hsz-000100",
         "lat": 24.8026,
         "lon": 120.9652,
         "name": "新竹市道路 西大路與西門街(往中央市場)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000100.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=37&user=viewer&pass=--"
     },
     {
         "id": "hsz-000101",
         "lat": 24.8088,
         "lon": 120.9743,
         "name": "新竹市道路 中央路與民權路(往巨城)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000101.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=65&user=viewer&pass=--"
     },
     {
         "id": "hsz-000102",
         "lat": 24.8088,
         "lon": 120.9746,
         "name": "新竹市道路 中央路與民權路(往巨城)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000102.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=66&user=viewer&pass=--"
     },
     {
         "id": "hsz-000103",
         "lat": 24.8098,
         "lon": 120.9774,
         "name": "新竹市道路 中央路與民生路(往自由路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000103.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=38&user=viewer&pass=--"
     },
     {
         "id": "hsz-000104",
         "lat": 24.8112,
         "lon": 120.9795,
         "name": "新竹市道路 中央路與民生路(往巨城)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000104.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=39&user=viewer&pass=--"
     },
     {
         "id": "hsz-000105",
         "lat": 24.8122,
         "lon": 120.9719,
         "name": "新竹市道路 北大路與民權路(往巨城)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000105.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=40&user=viewer&pass=--"
     },
     {
         "id": "hsz-000106",
         "lat": 24.7997,
         "lon": 120.9805,
         "name": "新竹市道路 食品路與博愛街(往體育館)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000106.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=41&user=viewer&pass=--"
     },
     {
         "id": "hsz-000107",
         "lat": 24.7982,
         "lon": 120.9781,
         "name": "新竹市道路 食品路與東山街(往大潤發)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000107.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=42&user=viewer&pass=--"
     },
     {
         "id": "hsz-000108",
         "lat": 24.7948,
         "lon": 120.9652,
         "name": "新竹市道路 食品路與南大路(往南大路634巷)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000108.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=43&user=viewer&pass=--"
     },
     {
         "id": "hsz-000109",
         "lat": 24.7933,
         "lon": 120.9631,
         "name": "新竹市道路 南大路與634巷(往南大路634巷)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000109.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=44&user=viewer&pass=--"
     },
     {
         "id": "hsz-000110",
         "lat": 24.7967,
         "lon": 120.9453,
         "name": "新竹市道路 牛埔停車場(牛埔東路與牛埔東路192巷往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000110.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=45&user=viewer&pass=--"
     },
     {
         "id": "hsz-000111",
         "lat": 24.7824,
         "lon": 120.9546,
         "name": "新竹市道路 景觀停車場(景觀大道與香檳街往西)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000111.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=46&user=viewer&pass=--"
     },
     {
         "id": "hsz-000112",
         "lat": 24.8025,
         "lon": 121.0144,
         "name": "新竹市道路 經國大橋料廠1",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000112.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=47&user=viewer&pass=--"
     },
     {
         "id": "hsz-000113",
         "lat": 24.8024,
         "lon": 121.0145,
         "name": "新竹市道路 經國大橋料廠2",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000113.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=48&user=viewer&pass=--"
     },
     {
         "id": "hsz-000114",
         "lat": 24.8028,
         "lon": 121.0146,
         "name": "新竹市道路 經國大橋料廠3",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000114.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=49&user=viewer&pass=--"
     },
     {
         "id": "hsz-000115",
         "lat": 24.8443,
         "lon": 120.936,
         "name": "新竹市道路 台68與西濱路(西濱路往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000115.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=50&user=viewer&pass=--"
     },
     {
         "id": "hsz-000116",
         "lat": 24.8423,
         "lon": 120.9343,
         "name": "新竹市道路 東大路與西濱路(往市區)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000116.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=51&user=viewer&pass=--"
     },
     {
         "id": "hsz-000117",
         "lat": 24.8424,
         "lon": 120.934,
         "name": "新竹市道路 東大路與西濱路(往南寮)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000117.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=52&user=viewer&pass=--"
     },
     {
         "id": "hsz-000118",
         "lat": 24.8393,
         "lon": 120.9312,
         "name": "新竹市道路 天府路與西濱路(西濱路往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000118.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=53&user=viewer&pass=--"
     },
     {
         "id": "hsz-000119",
         "lat": 24.8396,
         "lon": 120.9295,
         "name": "新竹市道路 天府路與榮濱路(榮濱路往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000119.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=54&user=viewer&pass=--"
     },
     {
         "id": "hsz-000120",
         "lat": 24.8418,
         "lon": 120.9244,
         "name": "新竹市道路 天府路與海濱路(天府路往東)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000120.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=55&user=viewer&pass=--"
     },
     {
         "id": "hsz-000121",
         "lat": 24.8415,
         "lon": 120.9245,
         "name": "新竹市道路 天府路與海濱路(海濱路往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000121.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=56&user=viewer&pass=--"
     },
     {
         "id": "hsz-000122",
         "lat": 24.8023,
         "lon": 120.9833,
         "name": "新竹市道路 光復路與食品路(往匝道)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000122.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=57&user=viewer&pass=--"
     },
     {
         "id": "hsz-000123",
         "lat": 24.801,
         "lon": 120.9828,
         "name": "新竹市道路 食品路與綠水路(往動物園停車場)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000123.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=58&user=viewer&pass=--"
     },
     {
         "id": "hsz-000124",
         "lat": 24.8018,
         "lon": 120.9767,
         "name": "新竹市道路 東大路與南大路(往東大陸橋)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000124.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=59&user=viewer&pass=--"
     },
     {
         "id": "hsz-000125",
         "lat": 24.8015,
         "lon": 120.9771,
         "name": "新竹市道路 東大路與公園路(往東大陸橋)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000125.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=60&user=viewer&pass=--"
     },
     {
         "id": "hsz-000126",
         "lat": 24.8124,
         "lon": 120.9814,
         "name": "新竹市道路 中央路與自由路(往經國路)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000126.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=61&user=viewer&pass=--"
     },
     {
         "id": "hsz-000127",
         "lat": 24.8071,
         "lon": 120.9707,
         "name": "新竹市道路 中央路與文化街(往市政府)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000127.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=62&user=viewer&pass=--"
     },
     {
         "id": "hsz-000128",
         "lat": 24.806,
         "lon": 120.969,
         "name": "新竹市道路 中央路與中正路(往東門圓環)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000128.jpg"
+        "cam_url": "https:\/\/nvr2.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=63&user=viewer&pass=--"
     },
     {
         "id": "hsz-000129",
         "lat": 24.8091,
         "lon": 120.9666,
         "name": "新竹市道路 中正路與北大路(北大路往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000129.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=64&user=viewer&pass=--"
     },
     {
         "id": "hsz-000130",
         "lat": 24.8031,
         "lon": 120.9604,
         "name": "新竹市道路 延平路與北大路(北大路往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000130.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=65&user=viewer&pass=--"
     },
     {
         "id": "hsz-000131",
         "lat": 24.8034,
         "lon": 120.9604,
         "name": "新竹市道路 延平路與北大路(北大路往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000131.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=66&user=viewer&pass=--"
     },
     {
         "id": "hsz-000132",
         "lat": 24.8033,
         "lon": 120.9606,
         "name": "新竹市道路 延平路與北大路(延平路往西)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000132.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=67&user=viewer&pass=--"
     },
     {
         "id": "hsz-000133",
         "lat": 24.8047,
         "lon": 120.9556,
         "name": "新竹市道路 經國路與延平路(經國路往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000133.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=68&user=viewer&pass=--"
     },
     {
         "id": "hsz-000134",
         "lat": 24.805,
         "lon": 120.9555,
         "name": "新竹市道路 經國路與延平路(經國路往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000134.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=69&user=viewer&pass=--"
     },
     {
         "id": "hsz-000135",
         "lat": 24.8048,
         "lon": 120.9554,
         "name": "新竹市道路 經國路與延平路(延平路往東)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000135.jpg"
+        "cam_url": "https:\/\/nvr1.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=70&user=viewer&pass=--"
     },
     {
         "id": "hsz-000136",
         "lat": 24.809,
         "lon": 120.9601,
         "name": "新竹市道路 經國路與西大路(經國路往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000136.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=71&user=viewer&pass=--"
     },
     {
         "id": "hsz-000137",
         "lat": 24.8093,
         "lon": 120.9601,
         "name": "新竹市道路 經國路與西大路(經國路往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000137.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=72&user=viewer&pass=--"
     },
     {
         "id": "hsz-000138",
         "lat": 24.8093,
         "lon": 120.96,
         "name": "新竹市道路 經國路與西大路(西大路往東)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000138.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=73&user=viewer&pass=--"
     },
     {
         "id": "hsz-000139",
         "lat": 24.809,
         "lon": 120.9602,
         "name": "新竹市道路 經國路與西大路(西大路往西)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000139.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=74&user=viewer&pass=--"
     },
     {
         "id": "hsz-000140",
         "lat": 24.8077,
         "lon": 120.9581,
         "name": "新竹市道路 經國路與民富街178巷(經國路往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000140.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=75&user=viewer&pass=--"
     },
     {
         "id": "hsz-000141",
         "lat": 24.808,
         "lon": 120.9582,
         "name": "新竹市道路 經國路與民富街178巷(經國路往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000141.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=76&user=viewer&pass=--"
     },
     {
         "id": "hsz-000142",
         "lat": 24.808,
         "lon": 120.958,
         "name": "新竹市道路 經國路與民富街178巷(磐石路往東)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000142.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=77&user=viewer&pass=--"
     },
     {
         "id": "hsz-000143",
         "lat": 24.8078,
         "lon": 120.9583,
         "name": "新竹市道路 經國路與民富街178巷(民富178巷往西)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000143.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=78&user=viewer&pass=--"
     },
     {
         "id": "hsz-000144",
         "lat": 24.8062,
         "lon": 120.9586,
         "name": "新竹市道路 民富街與少年街(民富街往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000144.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=79&user=viewer&pass=--"
     },
     {
         "id": "hsz-000145",
         "lat": 24.8063,
         "lon": 120.9587,
         "name": "新竹市道路 民富街與少年街(民富街往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000145.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=80&user=viewer&pass=--"
     },
     {
         "id": "hsz-000146",
         "lat": 24.8063,
         "lon": 120.9585,
         "name": "新竹市道路 民富街與少年街(少年街往東)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000146.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=81&user=viewer&pass=--"
     },
     {
         "id": "hsz-000147",
         "lat": 24.8062,
         "lon": 120.9588,
         "name": "新竹市道路 民富街與少年街(少年街往西)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000147.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=82&user=viewer&pass=--"
     },
     {
         "id": "hsz-000148",
         "lat": 24.8041,
         "lon": 120.9579,
         "name": "新竹市道路 延平路與民富街(延平路往西)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000148.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=83&user=viewer&pass=--"
     },
     {
         "id": "hsz-000149",
         "lat": 24.8041,
         "lon": 120.9577,
         "name": "新竹市道路 延平路與民富街(延平路往東)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000149.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=84&user=viewer&pass=--"
     },
     {
         "id": "hsz-000150",
         "lat": 24.8078,
         "lon": 120.9612,
         "name": "新竹市道路 西大路與民富街(西大路往西)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000150.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=85&user=viewer&pass=--"
     },
     {
         "id": "hsz-000151",
         "lat": 24.8079,
         "lon": 120.9611,
         "name": "新竹市道路 西大路與民富街(西大路往東)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000151.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=86&user=viewer&pass=--"
     },
     {
         "id": "hsz-000152",
         "lat": 24.8078,
         "lon": 120.961,
         "name": "新竹市道路 西大路與民富街(民富街往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000152.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=87&user=viewer&pass=--"
     },
     {
         "id": "hsz-000153",
         "lat": 24.8079,
         "lon": 120.9612,
         "name": "新竹市道路 西大路與民富街(民富街往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000153.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=88&user=viewer&pass=--"
     },
     {
         "id": "hsz-000154",
         "lat": 24.8061,
         "lon": 120.9625,
         "name": "新竹市道路 西大路與北大路(西大路往西)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000154.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=89&user=viewer&pass=--"
     },
     {
         "id": "hsz-000155",
         "lat": 24.8063,
         "lon": 120.9623,
         "name": "新竹市道路 西大路與北大路(西大路往東)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000155.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=90&user=viewer&pass=--"
     },
     {
         "id": "hsz-000156",
         "lat": 24.8061,
         "lon": 120.9623,
         "name": "新竹市道路 西大路與北大路(北大路往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000156.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=91&user=viewer&pass=--"
     },
     {
         "id": "hsz-000157",
         "lat": 24.8063,
         "lon": 120.9625,
         "name": "新竹市道路 西大路與北大路(北大路往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000157.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=92&user=viewer&pass=--"
     },
     {
         "id": "hsz-000158",
         "lat": 24.807,
         "lon": 120.957,
         "name": "新竹市道路 經國路與少年街(經國路往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000158.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=93&user=viewer&pass=--"
     },
     {
         "id": "hsz-000159",
         "lat": 24.8054,
         "lon": 120.9613,
         "name": "新竹市道路 北大路與少年街(北大路往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000159.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=94&user=viewer&pass=--"
     },
     {
         "id": "hsz-000160",
         "lat": 24.8054,
         "lon": 120.9611,
         "name": "新竹市道路 北大路與少年街(北大路往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000160.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=95&user=viewer&pass=--"
     },
     {
         "id": "hsz-000161",
         "lat": 24.8036,
         "lon": 120.9596,
         "name": "新竹市道路 延平路與廣州街(廣州街往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000161.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=96&user=viewer&pass=--"
     },
     {
         "id": "hsz-000162",
         "lat": 24.8064,
         "lon": 120.9596,
         "name": "新竹市道路 民富停車場(少年街49巷往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000162.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=97&user=viewer&pass=--"
     },
     {
         "id": "hsz-000163",
         "lat": 24.8059,
         "lon": 120.9606,
         "name": "新竹市道路 少年街與廣州街(廣州街往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000163.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=98&user=viewer&pass=--"
     },
     {
         "id": "hsz-000164",
         "lat": 24.8051,
         "lon": 120.9529,
         "name": "新竹市道路 延平路與客雅街(延平路往西)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000164.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=99&user=viewer&pass=--"
     },
     {
         "id": "hsz-000165",
         "lat": 24.8051,
         "lon": 120.9486,
         "name": "新竹市道路 延平路與成功路(延平路往西)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000165.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=100&user=viewer&pass=--"
     },
     {
         "id": "hsz-000166",
         "lat": 24.8037,
         "lon": 120.9642,
         "name": "新竹市道路 西大路與中山路(中山路往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000166.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=101&user=viewer&pass=--"
     },
     {
         "id": "hsz-000167",
         "lat": 24.8039,
         "lon": 120.9643,
         "name": "新竹市道路 西大路與中山路(中山路往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000167.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=102&user=viewer&pass=--"
     },
     {
         "id": "hsz-000168",
         "lat": 24.8119,
         "lon": 120.9644,
         "name": "新竹市道路 經國路與中正路(經國路往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000168.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=103&user=viewer&pass=--"
     },
     {
         "id": "hsz-000169",
         "lat": 24.8118,
         "lon": 120.9646,
         "name": "新竹市道路 經國路與中正路(中正路往西)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000169.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=104&user=viewer&pass=--"
     },
     {
         "id": "hsz-000170",
         "lat": 24.8113,
         "lon": 120.9568,
         "name": "新竹市道路 西大路與竹光路(竹光路往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000170.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=105&user=viewer&pass=--"
     },
     {
         "id": "hsz-000171",
         "lat": 24.8111,
         "lon": 120.9567,
         "name": "新竹市道路 西大路與竹光路(竹光路往北)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000171.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=106&user=viewer&pass=--"
     },
     {
         "id": "hsz-000172",
         "lat": 24.8111,
         "lon": 120.9569,
         "name": "新竹市道路 西大路與竹光路(西大路往西)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000172.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=107&user=viewer&pass=--"
     },
     {
         "id": "hsz-000173",
         "lat": 24.8456,
         "lon": 120.9275,
         "name": "新竹市道路 東大路與海濱路(海濱路往南)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000173.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=108&user=viewer&pass=--"
     },
     {
         "id": "hsz-000174",
         "lat": 24.8457,
         "lon": 120.9275,
         "name": "新竹市道路 東大路與海濱路(東大路往東)",
-        "cam_url": "https:\/\/c01.twipcam.com\/cam\/snapshot\/hsz-000174.jpg"
+        "cam_url": "https:\/\/nvr3.hccg.gov.tw\/thi-vms\/cgi-bin\/zms?monitor=109&user=viewer&pass=--"
     },
     {
         "id": "hsz-000175",

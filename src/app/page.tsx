@@ -371,6 +371,11 @@ export default function Dashboard() {
   const layerFetchedRef = useRef<Set<string>>(new Set());
   useEffect(() => {
 
+    // CCTV
+    if (activeLayers.cctv && !layerFetchedRef.current.has('cctv')) {
+      fetchEndpoint('/api/cctv?region=all&v=2');
+      layerFetchedRef.current.add('cctv');
+    }
     // Flights
     if (activeLayers.flights || activeLayers.military || activeLayers.jets || activeLayers.private) {
       if (!layerFetchedRef.current.has('flights')) {
@@ -387,11 +392,6 @@ export default function Dashboard() {
     if (activeLayers.fires && !layerFetchedRef.current.has('fires')) {
       fetchEndpoint('/api/fires');
       layerFetchedRef.current.add('fires');
-    }
-    // CCTV
-    if (activeLayers.cctv && !layerFetchedRef.current.has('cctv')) {
-      fetchEndpoint('/api/cctv?region=all&v=2');
-      layerFetchedRef.current.add('cctv');
     }
     // Maritime
     if (activeLayers.maritime && !layerFetchedRef.current.has('maritime')) {
