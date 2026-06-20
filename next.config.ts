@@ -2,6 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: 'standalone',
+  allowedDevOrigins: ['163.22.17.238'],
   serverExternalPackages: ['ws'],
   transpilePackages: ['react-map-gl', 'mapbox-gl', 'maplibre-gl'],
   typescript: {
@@ -27,9 +28,5 @@ const nextConfig: NextConfig = {
     ];
   },
 };
-
-module.exports = {
-  allowedDevOrigins: ['163.22.17.238'],
-}
 
 export default nextConfig;
